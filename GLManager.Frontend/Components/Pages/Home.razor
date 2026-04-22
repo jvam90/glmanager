@@ -1,0 +1,31 @@
+﻿@page "/"
+
+<PageTitle>GL Manager</PageTitle>
+
+<h1>Próximos eventos</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Evento</th>
+            <th>Data</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            var eventos = new List<(string Nome, DateTime Data)>
+            {
+                ("Evento A", DateTime.Now.AddDays(5)),
+                ("Evento B", DateTime.Now.AddDays(10)),
+                ("Evento C", DateTime.Now.AddDays(15)),
+                ("Evento C", DateTime.Now.AddDays(20))
+            };
+            foreach (var evento in eventos){
+                <tr>
+                    <td>@evento.Nome</td>
+                    <td>@evento.Data.ToString("dd/MM/yyyy")</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vsjJlIPOGy4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\casa\\Documents\\projetos\\gl\\GLManager.Frontend\\GLManager.Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\casa\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.4\\microsoft.aspnetcore.app.internal.assets.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
