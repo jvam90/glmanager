@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GLManager.Frontend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67d6799f0eeffec923ae1fa3a3a7f403b55adeac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+986ed3cf5e7fe5930f353db1d36de6c63a284924")]
 [assembly: System.Reflection.AssemblyProductAttribute("GLManager.Frontend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GLManager.Frontend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

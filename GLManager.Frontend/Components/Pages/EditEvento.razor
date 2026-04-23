@@ -1,0 +1,25 @@
+﻿@page "/editevento"
+@using GLManager.Frontend.Models
+
+<PageTitle>Novo Evento</PageTitle>
+
+<h3>Novo Evento</h3>
+
+<EditForm Model="@eventoDetalhe" FormName="editEvento">
+  <div class="mb-3">
+    <label for="nomeEvento" class="form-label">Nome Evento</label>
+    <InputText class="form-control" id="nomeEvento" @bind-Value="eventoDetalhe.Nome"/>
+  </div>
+  <div class="mb-3">
+    <label for="dataEvento" class="form-label">Data Do Evento</label>
+    <InputDate class="form-control" id="dataEvento" @bind-Value="eventoDetalhe.DataEvento"/>
+  </div>
+  <button type="submit" class="btn btn-primary">Enviar</button>
+</EditForm>
+
+@code{
+    private EventoDetalhes eventoDetalhe {get; set;} = new(){
+        Nome = "Culto Manhã",
+        DataEvento = DateOnly.FromDateTime(DateTime.UtcNow)
+    };
+}

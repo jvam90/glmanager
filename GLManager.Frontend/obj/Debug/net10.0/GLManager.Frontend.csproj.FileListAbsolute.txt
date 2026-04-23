@@ -36,3 +36,4 @@ C:\Users\casa\Documents\projetos\gl\GLManager.Frontend\obj\Debug\net10.0\refint\
 C:\Users\casa\Documents\projetos\gl\GLManager.Frontend\obj\Debug\net10.0\GLManager.Frontend.pdb
 C:\Users\casa\Documents\projetos\gl\GLManager.Frontend\obj\Debug\net10.0\GLManager.Frontend.genruntimeconfig.cache
 C:\Users\casa\Documents\projetos\gl\GLManager.Frontend\obj\Debug\net10.0\ref\GLManager.Frontend.dll
+C:\Users\casa\Documents\projetos\gl\GLManager.Frontend\obj\Debug\net10.0\GLManager.Frontend.sourcelink.json

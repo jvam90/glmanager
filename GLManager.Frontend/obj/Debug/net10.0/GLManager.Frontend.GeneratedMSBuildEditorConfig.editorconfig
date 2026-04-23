@@ -26,6 +26,14 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/casa/Documents/projetos/gl/GLManager.Frontend/Components/Layout/Navbar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2YmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casa/Documents/projetos/gl/GLManager.Frontend/Components/Pages/EditEvento.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFZGl0RXZlbnRvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/casa/Documents/projetos/gl/GLManager.Frontend/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

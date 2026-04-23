@@ -4,9 +4,9 @@ public class Evento
 {
     public int Id { get; set; }
     public string Nome { get; set; } = string.Empty;
-    public DateTime DataEvento { get; set; }
+    public DateOnly DataEvento { get; set; }
 
-    public Evento(int id, string nome, DateTime dataEvento)
+    public Evento(int id, string nome, DateOnly dataEvento)
     {
         this.Id = id;
         this.Nome = nome;
